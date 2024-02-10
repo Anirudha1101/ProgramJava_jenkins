@@ -4,8 +4,8 @@ public class Fibo {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		int a =0;
-		int b =1;
+		int a =1;
+		int b =2;
 		int c;
 		for(int i=1;i<=10;i++) {
 			
